@@ -275,6 +275,10 @@ input::placeholder {
     display: flex;
     justify-content: center;
 }
+.containerforsinglebigflex .normaltext {
+    text-align: center;
+    width: 500px;
+}
 
 .afterflexsection {
     background-color: #F7F7F7;
