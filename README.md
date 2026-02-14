@@ -55,9 +55,9 @@ https://imayushsawant.github.io/Mintlify-clone/
 - No JavaScript
 - No frameworks (pure HTML + CSS)
 - Desktop-first layout
-- Flexbox used for alignment
+- Flexbox used mainly for alignment
 - CSS Grid used for logo and footer sections
-- No animations
+- Includes subtle hover micro-animations (link arrow transitions)
 - Built using semantic HTML and custom CSS
 - Images and layout inspired by Mintlify official website
 - Project focused on layout practice and CSS architecture learning
